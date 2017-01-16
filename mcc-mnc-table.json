@@ -11176,26 +11176,26 @@
         "apn_pass": ""
     },
     {
-        "network": "Nawras",
+        "network": "Ooredoo",
         "country": "Oman",
         "mcc": "422",
         "iso": "om",
         "country_code": "968",
         "mnc": "03",
-        "apn": "internet",
+        "apn": "isp.nawras.com.om",
         "apn_user": "",
         "apn_pass": ""
     },
     {
-        "network": "Oman Mobile/GTO",
+        "network": "Oman Mobile",
         "country": "Oman",
         "mcc": "422",
         "iso": "om",
         "country_code": "968",
         "mnc": "02",
-        "apn": "internet",
-        "apn_user": "",
-        "apn_pass": ""
+        "apn": "taif",
+        "apn_user": "taif",
+        "apn_pass": "taif"
     },
     {
         "network": "Instaphone",
